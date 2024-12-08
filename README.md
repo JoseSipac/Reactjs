@@ -13,4 +13,4 @@ Este proyecto consume la PokéAPI para mostrar una lista de Pokémon y sus detal
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/pokemon-app.git
+   git clone  https://github.com/JoseSipac/Reactjs.git
